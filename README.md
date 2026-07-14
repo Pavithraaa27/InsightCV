@@ -1,6 +1,6 @@
-# 📄 CVInsight — AI Resume Screening & Candidate Analysis
+# 📄InsightCV — AI Resume Screening & Candidate Analysis
 
-CVInsight is a modern resume screening platform that helps recruiters analyze multiple resumes against a job description. Recruiters can upload resumes, provide a job title and job description, and receive candidate match scores, matched/missing skills, and improvement suggestions through a clean analytics dashboard.
+InsightCV is a modern resume screening platform that helps recruiters analyze multiple resumes against a job description. Recruiters can upload resumes, provide a job title and job description, and receive candidate match scores, matched/missing skills, and improvement suggestions through a clean analytics dashboard.
 
 ---
 
