@@ -20,7 +20,6 @@ InsightCV is a modern resume screening platform that helps recruiters analyze mu
 
 ---
 
-
 ## 🛠 Tech Stack
 
 | Layer | Technology |
